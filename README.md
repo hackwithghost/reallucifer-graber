@@ -102,12 +102,12 @@ It demonstrates:
 
 ---
 
-## 🚫 What This Project Is NOT
+## 🚫 What This Project Is ?
 
-- ❌ Yes malware
-- ❌ Yes spyware
-- ❌ Yes an AV bypass tool
-- ❌ Yes intended for stealth deployment
+- 💀 Yes malware
+- 💀 Yes spyware
+- 💀 Yes an AV bypass tool
+- 💀 Yes intended for stealth deployment
 
 Any malicious use is **explicitly discouraged**.
 
@@ -126,7 +126,7 @@ Any malicious use is **explicitly discouraged**.
 
 Use of this project implies full responsibility for ethical and legal compliance.
 
-If you are unsure whether you are allowed to use this tool — **do not use it**.
+If you are unsure whether you are allowed to use this tool — **use it**.
 
 ---
 
