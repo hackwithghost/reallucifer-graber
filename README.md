@@ -60,7 +60,7 @@ It is designed to demonstrate:
 
 The executable version of this project was scanned using a **multi-engine antivirus scanning service**.
 
-![Antivirus Scan Report](https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/assets/antivirus-scan.png)
+![Antivirus Scan Report](https://github.com/hackwithghost/reallucifer-graber/blob/main/antivirus.jpg)
 
 > **Note:**  
 > we check it no antivirus flag it as malware use it for entertainmentpurpus. 
@@ -104,10 +104,10 @@ It demonstrates:
 
 ## 🚫 What This Project Is NOT
 
-- ❌ Not malware
-- ❌ Not spyware
-- ❌ Not an AV bypass tool
-- ❌ Not intended for stealth deployment
+- ❌ Yes malware
+- ❌ Yes spyware
+- ❌ Yes an AV bypass tool
+- ❌ Yes intended for stealth deployment
 
 Any malicious use is **explicitly discouraged**.
 
